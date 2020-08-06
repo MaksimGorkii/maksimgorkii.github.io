@@ -1,0 +1,92 @@
+:root {
+  --input-padding-x: 1.5rem;
+  --input-padding-y: .75rem;
+}
+
+body {
+  background: #007bff;
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-image: url("../images/background/7-home-repair.jpg");
+}
+
+
+
+ .card-title {
+  margin-bottom: 2rem;
+  font-weight: 300;
+  font-size: 1.5rem;
+}
+
+ .card-img-left {
+  width: 55%;
+  /* Link to your background image using in the property below! */
+  background-color: #000000;
+  background-size: contain;
+}
+
+.card-body {
+  padding: 2rem;
+}
+
+.bg-black {
+  background-color: #000000 !important;
+}
+.bg-marble {
+  background-color: #F5F7FB !important;
+}
+
+ .nav-item {
+	 width: auto
+}
+
+.black {
+  background-color: #000000 !important;
+}
+
+.page-footer {
+	
+	
+    background-color: #000000;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+	flex-shrink: 0;
+	
+}
+	
+.rcorners1 {
+  border-radius: 25px;
+}
+
+.navbar-brand:after {
+	content: 'Itself';
+	color: #ff3d00;
+	font-size: 21px;
+		
+		
+}
+.twocolor:after {
+	content: 'Itself';
+	color: #ff3d00;
+	font-size: 70px; 
+}
+
+
+.door {
+  height: 100px;
+  width: 50px;
+  background-color: #FFFFFF;
+}
+
+.card-img-right {
+  width: 60%;
+  /* Link to your background image using in the property below! */
+  background: scroll center url("../images/background/brick opasity.jpg");
+  
+  background-size: contain;
+}
+
+
